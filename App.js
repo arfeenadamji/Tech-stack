@@ -6,7 +6,7 @@ import Aapp from './src/app';
 export default function App() {
   return (
     <View
-      // style={styles.container}
+      //style={styles.container}
     >
       <Aapp />
       <StatusBar style="auto" />
